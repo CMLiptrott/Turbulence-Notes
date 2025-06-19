@@ -8,7 +8,7 @@ We start with the Maxwell-Boltzmann probability distribution for the velocities 
 $$
  f(\mathbf{v})d^3v = \left(\frac{m}{2\pi k_{b}T}\right)^{3/2}\exp\left( -\frac{1}{2} mv^2 /k_{b}T\right) d^3v
 $$
-which is three dimensional counterpart of the [[Maxwellian Distribution|one-dimensional Maxwellian distribution]]. Again the interpretation is that $f(\mathbf{v})d^3v$ is the probability that a molecule has velocity within a small volume $d^3v$ in the neighbourhood of $\mathbf{v}$ (between $\mathbf{v}$ and $\mathbf{v}+d\mathbf{v}$). 
+which is three dimensional counterpart of the [[1.3.1 Maxwellian Distribution|one-dimensional Maxwellian distribution]]. Again the interpretation is that $f(\mathbf{v})d^3v$ is the probability that a molecule has velocity within a small volume $d^3v$ in the neighbourhood of $\mathbf{v}$ (between $\mathbf{v}$ and $\mathbf{v}+d\mathbf{v}$). 
 
 Denote the diameter of the particle as $d$ (radius $\frac{d}{2}$). Viewed head-on, the particle appears as a disc with area $\pi (d /2)^2$. We define the *effective cross-sectional area of the particle* $\pi d^2$. Particle A will collide with a particle B if the distance from the centre of A to the centre of B is less than the sum of their radii. So the 'effective' cross-sectional area is that of a circle of radius $r_{a} + r_{b}$. In our system all particles have the same radius so the effective cross sectional area is $\pi d^2$. 
 

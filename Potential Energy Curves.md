@@ -1,0 +1,1 @@
+Consider a particle in a system in which only conservative forces act. The particle is constrained along the $x$ axis whilst the conservative force does work on it. We can plot the potential energy $U(x)$ of the system. 
